@@ -20,7 +20,7 @@ namespace CompanyManagement
             Console.WriteLine();
 
             client2.Deactivate();
-            Console.WriteLine(client2.GetSummary());
+            Console.WriteLine(client2.GetSummary());//
         }
     }
 }
