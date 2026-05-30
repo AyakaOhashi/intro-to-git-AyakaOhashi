@@ -49,5 +49,9 @@
         {
             IsActive = false;
         }
+        public bool GetIsActive()
+        {
+            return IsActive;
+        }
     }
 }
